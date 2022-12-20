@@ -167,10 +167,10 @@ nav ul li a.nav-active {
 }
 
 /* contact form */
-h1{
-    text-align: center;
-    margin: 30px;
-    color: #fff;
+.judul-form h1 {
+  text-align: center;
+  margin: 30px;
+  color: #fff;
 }
 
 .contact-form {
